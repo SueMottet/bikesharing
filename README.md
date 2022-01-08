@@ -52,63 +52,63 @@ https://public.tableau.com/app/profile/sue.mottet/viz/NYCCitiBike_16410710320630
 
 The Tableau Public annotated story for this exploratory data analysis includes data visualizations for:
 
-1. NYC Citi Bike overview information
+### 1. NYC Citi Bike overview information
 
 This dashboard highlights some of the most relevant information around the NYC Citi Bike program that should help the Des Moines program startup.
 
 ![bike overview image](/Resources/overview.png)
 
-2. Peak bike usage information - usage by hours of the day
+### 2. Peak bike usage information - usage by hours of the day
 
-This data visualization show all the usage information by hours of the day and can be found in the Tableau Public story. It provides the full hour by hour usage detail.
+This data visualization shows all the usage information by hours of the day and can be found in the Tableau Public story. It provides the full hour by hour usage detail.
 
-3. Best performing bike station location information
+### 3. Best performing bike station location information
 
 This data visualization highlights the relationship between places in NYC and bike station usage and should help the Des Moines program identify where to place bike station and how many bikes will be needed.
 
 ![bike station image](/Resources/best_start_end_locations.png)
 
-4. Bike usage by day weekday
+### 4. Bike usage by day weekday
 
 This data visualization highlights the heaviest usage times by day of week and hour of day. It should help the Des Moines program plan for the number of bikes and bike placement.
 
 ![day weekday image](/Resources/trips_by_weekday_per_hour.png)
 
-5. Trip duration by user type
+### 5. Trip duration by user type
 
 This data visualization highlights the amount of time the users use the bikes by the type of user and can be used to help the Des Moines program plan for distance between bike stations and bike number at bike stations location around different types of city locations.
 
 ![checkout times user image](/Resources/checkout_times_for_users.png)
 
-6. Hourly bike usage by gender and time of day
+### 6. Hourly bike usage by gender and time of day
 
 This data visualization provides information on when bikes are used throughout the week and during which times of day and can be helpful in planning bike station patterns.
 
 ![gender time of day image](/Resources/trips_by_gender_weekday_per_hour.png)
 
-7. Usage by gender by weekday
+### 7. Usage by gender by weekday
 
 This data visualization provides information on gender breakouts by the day of the week and could be helpful in marketing to each or couples for increasing bike usages and expanding usage.
 
 ![gender weekday image](/Resources/user_trips_by_gender_by_weekday.png)
 
-8. Average trip duration by birth year (age)
+### 8. Average trip duration by birth year (age)
 
-This data visualization provides information on how long bikes are ridden by birth year of the rider (age) and can be found in the Tableau Public story.
+This data visualization provides information on how long bikes are ridden by birth year of the rider (age) and can be found in the Tableau Public story. It should be helpful for the Des Moines program in combination with Des Moine population age information and their city vistors age profiles.
 
-9. Trip duration by users
+### 9. Trip duration by users
 
-This data visualization provides information on trip duration by user. It can be used to understand how long the biks are checkout for
+This data visualization provides information on trip duration by user. It can be used to understand how long the bikes are typically checkouted for.
 
 ![checkout times user image](/Resources/checkout_times_for_users.png)
 
-10. Bike utilization by bike 
+### 10. Bike utilization by bike 
 
 This data visualization provides information on bike utilization by and could be used to help rotate and extend times between bike repairs for the bike program. 
 
 It can be found in the Tableau Public story.
 
-11. Bike repair planning information
+### 11. Bike repair planning information
 
 This data visualization provides information on how long bikes have been ridden for bike repair planning and can be found in the Tableau Public story.
 
