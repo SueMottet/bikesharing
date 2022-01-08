@@ -29,17 +29,17 @@ The exploratory data analysis includes:
 Using Tableau, visualizations are created to present:
 
 - An overview of the Citi Bike information in NYC program profiling
-- How long bikes are checked out for all riders,  by gender, and by age
+- How long bikes are checked out for all riders, by gender, and by age
 - How many trips are taken by the hour for each day of the week, for all riders and genders
 - A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender
-- Maps identifying the the best start and end bikes station locationss in NYC to help the Des Moines better understand type of station locations used most frequently
+- Maps identifying the best start and end bikes station locations in NYC to help the Des Moines better understand type of station locations used most frequently
 - Other useful program details
 
 ### Objective 3
-Using Tableau and this README tell the NYC Citi Bike story and provide key outcomes relevant for determing and possibly improving the chances of the success of a similar Des Moines program startup.
+Using Tableau and this README tell the NYC Citi Bike story and provide key outcomes relevant for determining and possibly improving the chances of the success of a similar Des Moines program startup.
 
  - a story in Tableau Public
- - written analysis that describes the key outcomes of the NYC Citibike analysis
+ - written analysis that describes the key outcomes of the NYC Citi Bike analysis
 ### Resources: 
 
 - Software: Tableau Public, Python 3.6.1, Jupyter Notebook, Pandas
@@ -94,11 +94,11 @@ This data visualization provides information on gender breakouts by the day of t
 
 ### 8. Average trip duration by birth year (age)
 
-This data visualization provides information on how long bikes are ridden by birth year of the rider (age) and can be found in the Tableau Public story. It should be helpful for the Des Moines program in combination with Des Moine population age information and their city vistors age profiles.
+This data visualization provides information on how long bikes are ridden by birth year of the rider (age) and can be found in the Tableau Public story. It should be helpful for the Des Moines program in combination with Des Moines population age information and their city visitors age profiles.
 
 ### 9. Trip duration by users
 
-This data visualization provides information on trip duration by user. It can be used to understand how long the bikes are typically checkouted for.
+This data visualization provides information on trip duration by user. It can be used to understand how long the bikes are typically checked out for.
 
 ![checkout times user image](/Resources/checkout_times_for_users.png)
 
@@ -114,10 +114,10 @@ This data visualization provides information on how long bikes have been ridden 
 
 ## NYC Citi Bike Exploratory Data Analysis Results:
 
-1. Subcriptions are an important part of the NYC Citi Bike program. Customer usage though less consistent is not insignificant and should be factored in for success of the program in Des Moines.
-2. Commuting patterns around areas of commerce in Des Moine should be used to determine bike station locations, the distance between them, and the number of bikes to place at each station.
+1. Subscriptions are an important part of the NYC Citi Bike program. Customer usage though less consistent is not insignificant and should be factored in for success of the program in Des Moines.
+2. Commuting patterns around key areas of commerce in Des Moines should be used to determine bike station locations, the distance between them, and the number of bikes to place at each station.
 3. Bike friendly sight-seeing and tourist sites should also be targeted for bike station locations and the site related usage and traffic patterns analyzed to help determine the number of bikes to place at nearby bike stations.
-4. Setting up this same dashboard for the Des Moine program and keeping it updated would allow the program to learn more about their bike usage and adapt the program for better continued success.
+4. Setting up this same dashboard for the Des Moines program and keeping it updated would allow the program to learn more about their bike usage and adapt the program for better continued success.
 
 ## References:
 * Best practices for effective dashboards: https://help.tableau.com/current/pro/desktop/en-us/dashboards_best_practices.htm
