@@ -1,6 +1,6 @@
-# Citi Bike Startup Exploratory Analysis in Tableau
+# Citi Bike Startup Exploratory Data Analysis in Tableau
 
-The full annotated Tableau Public story can be found at: https://public.tableau.com/app/profile/sue.mottet/viz/NYCCitiBike_16410710320630/NYCCitiBikeStory?publish=yes
+The annotated Tableau Public story can be found at: https://public.tableau.com/app/profile/sue.mottet/viz/NYCCitiBike_16410710320630/NYCCitiBikeStory?publish=yes
 
 ## NYC Citi Bike Exploratory Data Analysis Overview
 
@@ -23,7 +23,7 @@ The exploratory data analysis includes:
 
 ![converted date image](/Resources/trip_duration_minutes_conversion.png)
 
-### Objective 2: Create data visualizations to provided learnings to be utilized in Des Moines for success
+### Objective 2: Create data visualizations to present key findings to be utilized by Des Moines for determining and improving startup success
 
 Using Tableau, visualizations are created to present:
 
