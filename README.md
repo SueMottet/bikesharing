@@ -1,6 +1,6 @@
 # Citi Bike Startup Exploratory Analysis in Tableau
 
-https://public.tableau.com/app/profile/sue.mottet/viz/NYCCitiBike_16410710320630/NYCCitiBikeStory?publish=yes
+The full annotated Tableau Public story can be found at: https://public.tableau.com/app/profile/sue.mottet/viz/NYCCitiBike_16410710320630/NYCCitiBikeStory?publish=yes
 
 ## NYC Citi Bike Exploratory Data Analysis Overview
 
@@ -15,8 +15,7 @@ The exploratory data analysis includes:
 * creating data visualization in Tableau
 * building dashboards and a story to present the data visualizations
 
-### Objective 1 Download, inspect and prepare the data for analysis
-
+### Objective 1: Download, inspect and prepare the data for analysis
 
 1. Using Python and Pandas functions, "tripduration" data is converted from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). 
 2. After conversion of the "tripduration" data to a datetime dataytpe, the DataFrame is exported as a CSV file to use for trip analysis.
@@ -24,7 +23,7 @@ The exploratory data analysis includes:
 
 ![converted date image](/Resources/trip_duration_minutes_conversion.png)
 
-### Objective 2
+### Objective 2: Create data visualizations to provided learnings to be utilized in Des Moines for success
 
 Using Tableau, visualizations are created to present:
 
@@ -35,19 +34,23 @@ Using Tableau, visualizations are created to present:
 - Maps identifying the best start and end bikes station locations in NYC to help the Des Moines better understand type of station locations used most frequently
 - Other useful program details
 
-### Objective 3
-Using Tableau and this README tell the NYC Citi Bike story and provide key outcomes relevant for determining and possibly improving the chances of the success of a similar Des Moines program startup.
+### Objective 3: Using Tableau and this README tell the NYC Citi Bike story
+Provisioning the exploratory data analysis in a digestible format shares information around key outcomes relevant for determining and possibly improving the chances of the success of a similar Des Moines program startup.
+
+This objective is accomplished with:
 
  - a story in Tableau Public
- - written analysis that describes the key outcomes of the NYC Citi Bike analysis
+ - written analysis that describes the key outcomes of the NYC Citi Bike analysis (README)
+
 ### Resources: 
 
 - Software: Tableau Public, Python 3.6.1, Jupyter Notebook, Pandas
 
 ## Exploratory Data Analysis Results for Citi Bike
+
 Shown below are a sampling of the data visualizations for this exploratory data analysis. 
 
-The full annotated story is available at:
+The full annotated story is available on Tableau Public at:
 https://public.tableau.com/app/profile/sue.mottet/viz/NYCCitiBike_16410710320630/NYCCitiBikeStory?publish=yes
 
 The Tableau Public annotated story for this exploratory data analysis includes data visualizations for:
@@ -68,7 +71,7 @@ This data visualization highlights the relationship between places in NYC and bi
 
 ![bike station image](/Resources/best_start_end_locations.png)
 
-### 4. Bike usage by day weekday
+### 4. Bike usage by weekday
 
 This data visualization highlights the heaviest usage times by day of week and hour of day. It should help the Des Moines program plan for the number of bikes and bike placement.
 
@@ -104,9 +107,7 @@ This data visualization provides information on trip duration by user. It can be
 
 ### 10. Bike utilization by bike 
 
-This data visualization provides information on bike utilization by and could be used to help rotate and extend times between bike repairs for the bike program. 
-
-It can be found in the Tableau Public story.
+This data visualization provides information on bike utilization by bike and could be used to help rotate and extend times between bike repairs for the bike program. It can be found in the Tableau Public story.
 
 ### 11. Bike repair planning information
 
