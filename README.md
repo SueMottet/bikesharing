@@ -90,7 +90,7 @@ This data visualization provides information on when bikes are used throughout t
 
 This data visualization provides information on gender breakouts by the day of the week and could be helpful in marketing to each or couples for increasing bike usages and expanding usage.
 
-![gender weekday image](/Resources/user_trips_by_gender_weekday.png)
+![gender weekday image](/Resources/user_trips_by_gender_by_weekday.png)
 
 8. Average trip duration by birth year (age)
 
