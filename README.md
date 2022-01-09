@@ -119,7 +119,7 @@ This data visualization provides information on bike utilization by bike and cou
 
 This data visualization provides information on how long bikes have been ridden for bike repair planning and can be found in the Tableau Public story.
 
-## NYC Citi Bike Exploratory Data Analysis Results:
+## NYC Citi Bike Exploratory Data Analysis Summary:
 
 1. Subscriptions are an important part of the NYC Citi Bike program. Customer usage though less consistent is not insignificant and should be factored in for success of the program in Des Moines.
 2. Commuting patterns around key areas of commerce in Des Moines should be used to determine bike station locations, the distance between them, and the number of bikes to place at each station.
